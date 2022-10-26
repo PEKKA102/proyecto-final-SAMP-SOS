@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#00c853</color>
+    <color name="primaryLightColor">#5efc82</color>
+    <color name="primaryDarkColor">#009624</color>
+    <color name="secondaryColor">#6200ea</color>
+    <color name="secondaryLightColor">#9d46ff</color>
+    <color name="secondaryDarkColor">#0a00b6</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+    <color name="EditTextBG">#EFEFEF</color>
+    <color name="lblPrimary">#00c853</color>
+    <color name="IconFocused">#00c853</color>
+    <color name="IconGray">#B5B5B5</color>
+
+    <color name="bgPrimary">#6200ea</color>
+
+    <color name="btnPrimary">#6200ea</color>
+
+</resources>
